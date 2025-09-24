@@ -35,7 +35,7 @@ def makeNonLinearDS():
     return x, y
 
 #titanic set
-def loadTitanicDS(path = r"C:\Users\msmar\OneDrive\Desktop\class work\COMP 379\Homework2\COMP379HW2\src\DATA\titanicTrain.csv", test_size=0.3, random_state=4):
+def loadTitanicDS(path = r'COMP379HW2\DATA\titanicTrain.csv', test_size=0.3, random_state=4):
     df = pd.read_csv(path)
     features = ['Pclass', 'Sex', 'Age', 'SibSp', 'Parch', 'Fare', 'Embarked']
     df = df[features + ['Survived']]
