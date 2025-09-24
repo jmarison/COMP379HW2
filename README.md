@@ -1,4 +1,4 @@
-<h3>Homework 2</h3>
+<h1>Homework 2</h1>
 
 For this homework you will build your own ML models using the perceptron
 and adaline algorithms. Please implement your own version of the perceptron
@@ -19,12 +19,13 @@ your model on the training set and comment on the result. [undergrads:
 seperable. Now train a perceptron model. Did the algorithm converge?
 Provide evidence. Now measure the accuracy of your model on the training
 set and comment on the result. [undergrads: 25 points; grads: 20 points]
-3. Download the Titanic dataset and randomly split it into training (70%) and
 
+3. Download the Titanic dataset and randomly split it into training (70%) and
 test (30%) sets. Train an adaline model using the training data. Evaluate
 it on (a) training data; (b) test data. Is there a difference in performance?
 Please report your performance and explain the difference. You are free to
 use either the SGD or the batch version of adaline. [30 points]
+
 4. What were the most predictive features of your Titanic model? Provide
 evidence. [undergrads: 10 points; grads: 20 points]
 
