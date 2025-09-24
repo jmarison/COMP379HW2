@@ -1,4 +1,4 @@
-<h5>Homework 2</h5>
+<h1>Homework 2</h1>
 
 For this homework you will build your own ML models using the perceptron
 and adaline algorithms. Please implement your own version of the perceptron
