@@ -1,4 +1,5 @@
-Homework 2
+#Homework 2
+
 For this homework you will build your own ML models using the perceptron
 and adaline algorithms. Please implement your own version of the perceptron
 algorithm and compare it to the textbook implementation (available via the
